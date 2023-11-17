@@ -1,2 +1,2 @@
 # TinyCalculator
-5AHWII Sample GIT Project
+Our first 5AHWII Sample GIT Project
