@@ -6,7 +6,7 @@ int divisor = ReadNumber("Divisor");
 if (divisor == 0)
 {
     Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("Divisor darf nicht 0 sein.");
+    Console.WriteLine("Zahl darf nicht 0 sein.");
     Console.ResetColor();
 }
 else
